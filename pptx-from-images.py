@@ -18,7 +18,7 @@ By default, it uses **natural sorting** (like Windows Explorer), for filenames.
     10.jpg  20.jpg  100.jpg
 
 Alternatively, you can override this by running the script with the argument `altsort`:
-    `python ppt-generator.py altsort`
+    `python pptx-from-images.py altsort`
 This will sort the filenames lexicographically (alphabetically by characters):
     10.jpg  100.jpg  20.jpg
       
